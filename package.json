@@ -1,0 +1,5 @@
+{
+  "name": "gee-ledger",
+  "private": true,
+  "workspaces": ["packages/*", "apps/*"]
+}
